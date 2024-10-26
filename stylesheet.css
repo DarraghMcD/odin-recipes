@@ -1,10 +1,10 @@
 body {
    background-color: aquamarine;
 }
+
 .container {
    border: black 2px solid;
    width: 95%;
-   
 }
 
 .leftList {
@@ -15,4 +15,10 @@ body {
 .rightList {
     width: 50%;
     float: right;
+}
+
+.footer {
+    width: 100%;
+    background-color: green;
+    position:fixed ;
 }
